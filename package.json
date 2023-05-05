@@ -1,0 +1,14 @@
+{
+  "name": "cognito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-amplify": "^5.1.4"
+  }
+}
